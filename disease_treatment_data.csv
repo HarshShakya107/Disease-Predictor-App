@@ -1,0 +1,42 @@
+Disease,Treatment,Medicines,Specialist,Home Remedies
+Fungal infection,Topical antifungal or oral antifungal,"Clotrimazole, Fluconazole",Dermatologist,Keep affected area clean and dry
+Allergy,"Avoid allergen, Antihistamines","Cetirizine, Loratadine",Allergist,Steam inhalation
+GERD,"Dietary changes, Antacids, PPIs","Omeprazole, Ranitidine",Gastroenterologist,Elevate head while sleeping
+Chronic cholestasis,"Treat underlying cause, Ursodeoxycholic acid",Ursodiol,Hepatologist,Avoid fatty foods
+Drug Reaction,"Stop drug, Antihistamines or steroids","Hydrocortisone, Cetirizine",Allergist,Cold compress
+Peptic ulcer disease,"Proton pump inhibitors, Antibiotics","Omeprazole, Amoxicillin",Gastroenterologist,Avoid spicy foods
+AIDS,Antiretroviral therapy (ART),"Zidovudine, Lamivudine",Infectious Disease Specialist,Proper nutrition
+Diabetes,Insulin or oral hypoglycemics,"Metformin, Insulin",Endocrinologist,Low-carb diet
+Gastroenteritis,"Hydration, Antiemetics","ORS, Ondansetron",General Physician,Banana-rice-toast diet
+Bronchial Asthma,"Inhalers, Avoid allergens","Salbutamol, Budesonide",Pulmonologist,Steam inhalation
+Hypertension,"Lifestyle changes, Antihypertensives","Amlodipine, Losartan",Cardiologist,Reduce salt intake
+Migraine,"Pain relievers, Triptans","Ibuprofen, Sumatriptan",Neurologist,Cold compress
+Cervical spondylosis,"Physiotherapy, Pain relievers","Ibuprofen, Muscle relaxants",Orthopedist,Neck exercises
+Paralysis (brain hemorrhage),"Immediate hospitalization, Rehab","Mannitol, Physiotherapy",Neurologist,Stroke rehab
+Jaundice,"Treat cause, Supportive care",Liver supplements,Hepatologist,Avoid alcohol
+Malaria,Antimalarial drugs,"Chloroquine, Artemisinin",Infectious Disease Specialist,Avoid mosquito bites
+Chicken pox,"Antivirals, Symptom relief",Acyclovir,General Physician,Oatmeal bath
+Dengue,"Hydration, Monitoring platelets",Paracetamol (no NSAIDs),Infectious Disease Specialist,Papaya leaf juice
+Typhoid,Antibiotics,"Ciprofloxacin, Azithromycin",General Physician,Boiled water only
+hepatitis A,"Rest, Supportive care",No specific drugs,Hepatologist,Avoid fatty food
+Hepatitis B,Antivirals,"Tenofovir, Entecavir",Hepatologist,Vaccination for prevention
+Hepatitis C,DAA therapy,Sofosbuvir,Hepatologist,Avoid alcohol
+Hepatitis D,"Supportive care, Interferon",Interferon alfa,Hepatologist,Liver care diet
+Hepatitis E,Rest and hydration,No specific medication,Hepatologist,Avoid contaminated water
+Alcoholic hepatitis,"Stop alcohol, Steroids",Prednisolone,Hepatologist,No alcohol ever
+Tuberculosis,6-month antibiotic regimen,"Isoniazid, Rifampin",Pulmonologist,Good nutrition
+Common Cold,Symptomatic treatment,"Paracetamol, Cetirizine",General Physician,Steam inhalation
+Pneumonia,"Antibiotics, Supportive care","Azithromycin, Ceftriaxone",Pulmonologist,Rest and hydration
+Dimorphic hemorrhoids(piles),"Fiber diet, Sitz bath","Laxatives, Pain relievers",Surgeon,Warm sitz bath
+Heart attack,"Immediate hospitalization, Angioplasty","Aspirin, Nitroglycerin",Cardiologist,Lifestyle change
+Varicose veins,"Compression stockings, Surgery",Pain relievers,Vascular Surgeon,Leg elevation
+Hypothyroidism,Thyroid hormone replacement,Levothyroxine,Endocrinologist,Regular checkups
+Hyperthyroidism,Anti-thyroid drugs,Methimazole,Endocrinologist,Limit iodine intake
+Hypoglycemia,"Sugar intake, Monitor glucose",Glucose tablets,Endocrinologist,Frequent small meals
+Osteoarthritis,"Pain relievers, Physiotherapy","Paracetamol, NSAIDs",Orthopedist,Joint exercises
+Arthritis,"NSAIDs, DMARDs","Methotrexate, Ibuprofen",Rheumatologist,Warm compress
+(vertigo) Paroxysmal Positional Vertigo,Head positioning maneuvers,Betahistine,Neurologist,Epley maneuver
+Acne,"Topical creams, Antibiotics","Benzoyl peroxide, Clindamycin",Dermatologist,Face cleansing
+Urinary tract infection,Antibiotics,"Nitrofurantoin, Ciprofloxacin",Urologist,Drink plenty of water
+Psoriasis,"Topical steroids, Phototherapy","Coal tar, Methotrexate",Dermatologist,Moisturize skin
+Impetigo,Antibiotic cream or oral antibiotics,"Mupirocin, Cephalexin",Dermatologist,Wash infected area
