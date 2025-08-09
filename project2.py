@@ -5,8 +5,8 @@ import pandas as pd
 from rapidfuzz  import process
 import math
 
-model=joblib.load("C:\\Users\\HP\\Downloads\\model.pkl")
-df=pd.read_csv(r"C:\\Users\\HP\\Downloads\\disease_treatment_data.csv")
+model=joblib.load("model.pkl")
+df=pd.read_csv("disease_treatment_data.csv")
 
 if "accepted" not in st.session_state:
     st.session_state.accepted = False
@@ -210,7 +210,7 @@ if disease_input:
         st.error("Disease not found in database. Please check spelling or try another.")
 
 
-df1 = pd.read_csv(r"C:\\Users\\HP\\Downloads\\daily_food_nutrition_dataset2.csv")
+df1 = pd.read_csv("daily_food_nutrition_dataset2.csv")
 food_items = df1['Food_Item'].tolist()
 
 def get_nutrition(food_name):
@@ -230,6 +230,7 @@ if selected_food:
         st.error(result)
     else:
         st.write(result)
+
 
 
 
