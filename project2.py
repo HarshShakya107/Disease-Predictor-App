@@ -211,8 +211,6 @@ if disease_input:
 
 
 df1 = pd.read_csv(r"C:\\Users\\HP\\Downloads\\daily_food_nutrition_dataset2.csv")
-
-
 food_items = df1['Food_Item'].tolist()
 
 def get_nutrition(food_name):
@@ -222,13 +220,12 @@ def get_nutrition(food_name):
     nutrition = df1[df1['Food_Item'] == match].iloc[0]
     return nutrition
 
-# Streamlit UI
 st.title("Food Nutrition Lookup")
 
-user_input = st.text_input("Enter food item name:")
+selected_food = st.selectbox("Select a food item from the list:", food_items)
 
-if user_input:
-    result = get_nutrition(user_input)
+if selected_food:
+    result = get_nutrition(selected_food)
     if isinstance(result, str):
         st.error(result)
     else:
