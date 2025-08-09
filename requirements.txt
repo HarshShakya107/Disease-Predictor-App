@@ -3,3 +3,4 @@ joblib
 numpy
 pandas 
 rapidfuzz  
+scikit-learn
